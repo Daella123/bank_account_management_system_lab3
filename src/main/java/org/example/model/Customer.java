@@ -1,4 +1,4 @@
-package model;
+package org.example.model;
 
 /**
  * Abstract base class representing a bank customer.

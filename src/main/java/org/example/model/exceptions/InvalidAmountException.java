@@ -1,4 +1,4 @@
-package model.exceptions;
+package org.example.model.exceptions;
 
 /**
  * Exception thrown when an invalid monetary amount is provided.

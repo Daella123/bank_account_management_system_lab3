@@ -1,4 +1,4 @@
-package model.exceptions;
+package org.example.model.exceptions;
 
 /**
  * Exception thrown when a withdrawal cannot be completed due to

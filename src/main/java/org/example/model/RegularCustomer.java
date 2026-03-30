@@ -1,4 +1,4 @@
-package model;
+package org.example.model;
 
 /**
  * A standard bank customer with no premium privileges.

@@ -1,4 +1,4 @@
-package model;
+package org.example.model;
 
 import org.example.model.exceptions.InsufficientFundsException;
 import org.example.model.exceptions.InvalidAmountException;

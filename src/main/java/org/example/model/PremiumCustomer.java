@@ -1,4 +1,4 @@
-package model;
+package org.example.model;
 
 /**
  * A premium bank customer with elevated privileges (fee waiver, higher limits).

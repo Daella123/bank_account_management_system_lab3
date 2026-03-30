@@ -1,4 +1,4 @@
-package model;
+package org.example.model;
 
 import org.example.contract.Transactable;
 import org.example.model.exceptions.InsufficientFundsException;
